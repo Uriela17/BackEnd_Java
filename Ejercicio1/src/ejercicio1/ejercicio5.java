@@ -29,7 +29,6 @@ public class ejercicio5 {
         System.out.println("El doble de " + n + " es: " + doble);
         System.out.println("El triple de " + n + " es: " + triple);
         System.out.println("La raiz de " + n + " es: " + raiz);
-
     }
     
 }
